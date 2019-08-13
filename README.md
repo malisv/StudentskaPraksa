@@ -11,5 +11,5 @@ Microsoft.EntityFrameworkCore.Design   (install-package Microsoft.EntityFramewor
 Bricelam.EntityFrameworkCore.Pluralizer (install-package Bricelam.EntityFrameworkCore.Pluralizer)
 
 ScaffoldDb
-
+dotnet ef dbcontext scaffold "Server=(localdb)\MSSQLLocalDB;Database=StudentskaPraksa;Trusted_Connection=True;" Microsoft.EntityFrameworkCore.SqlServer --output-dir Models
 
