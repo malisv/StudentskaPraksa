@@ -1,0 +1,12 @@
+C:\Users\vladem\Source\Repos\SP\SP.Data\bin\Debug\netcoreapp2.2\SP.Data.deps.json
+C:\Users\vladem\Source\Repos\SP\SP.Data\bin\Debug\netcoreapp2.2\SP.Data.dll
+C:\Users\vladem\Source\Repos\SP\SP.Data\obj\Debug\netcoreapp2.2\SP.Data.csprojAssemblyReference.cache
+C:\Users\vladem\Source\Repos\SP\SP.Data\obj\Debug\netcoreapp2.2\SP.Data.csproj.CoreCompileInputs.cache
+C:\Users\vladem\Source\Repos\SP\SP.Data\obj\Debug\netcoreapp2.2\SP.Data.AssemblyInfoInputs.cache
+C:\Users\vladem\Source\Repos\SP\SP.Data\obj\Debug\netcoreapp2.2\SP.Data.AssemblyInfo.cs
+C:\Users\vladem\Source\Repos\SP\SP.Data\bin\Debug\netcoreapp2.2\SP.Data.pdb
+C:\Users\vladem\Source\Repos\SP\SP.Data\obj\Debug\netcoreapp2.2\SP.Data.dll
+C:\Users\vladem\Source\Repos\SP\SP.Data\obj\Debug\netcoreapp2.2\SP.Data.pdb
+C:\Users\vladem\Source\Repos\SP\SP.Data\bin\Debug\netcoreapp2.2\SP.Data.runtimeconfig.json
+C:\Users\vladem\Source\Repos\SP\SP.Data\bin\Debug\netcoreapp2.2\SP.Data.runtimeconfig.dev.json
+C:\Users\vladem\Source\Repos\SP\SP.Data\obj\Debug\netcoreapp2.2\EFCorePluralizer.cs

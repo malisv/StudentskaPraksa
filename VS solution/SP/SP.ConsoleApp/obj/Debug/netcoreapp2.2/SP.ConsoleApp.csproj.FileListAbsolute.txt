@@ -1,0 +1,14 @@
+C:\Users\vladem\Source\Repos\SP\SP.ConsoleApp\bin\Debug\netcoreapp2.2\SP.ConsoleApp.deps.json
+C:\Users\vladem\Source\Repos\SP\SP.ConsoleApp\bin\Debug\netcoreapp2.2\SP.ConsoleApp.runtimeconfig.json
+C:\Users\vladem\Source\Repos\SP\SP.ConsoleApp\bin\Debug\netcoreapp2.2\SP.ConsoleApp.runtimeconfig.dev.json
+C:\Users\vladem\Source\Repos\SP\SP.ConsoleApp\bin\Debug\netcoreapp2.2\SP.ConsoleApp.dll
+C:\Users\vladem\Source\Repos\SP\SP.ConsoleApp\bin\Debug\netcoreapp2.2\SP.ConsoleApp.pdb
+C:\Users\vladem\Source\Repos\SP\SP.ConsoleApp\obj\Debug\netcoreapp2.2\SP.ConsoleApp.csprojAssemblyReference.cache
+C:\Users\vladem\Source\Repos\SP\SP.ConsoleApp\obj\Debug\netcoreapp2.2\SP.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\vladem\Source\Repos\SP\SP.ConsoleApp\obj\Debug\netcoreapp2.2\SP.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\vladem\Source\Repos\SP\SP.ConsoleApp\obj\Debug\netcoreapp2.2\SP.ConsoleApp.AssemblyInfo.cs
+C:\Users\vladem\Source\Repos\SP\SP.ConsoleApp\obj\Debug\netcoreapp2.2\SP.ConsoleApp.dll
+C:\Users\vladem\Source\Repos\SP\SP.ConsoleApp\obj\Debug\netcoreapp2.2\SP.ConsoleApp.pdb
+C:\Users\vladem\Source\Repos\SP\SP.ConsoleApp\bin\Debug\netcoreapp2.2\SP.Data.dll
+C:\Users\vladem\Source\Repos\SP\SP.ConsoleApp\bin\Debug\netcoreapp2.2\SP.Data.pdb
+C:\Users\vladem\Source\Repos\SP\SP.ConsoleApp\obj\Debug\netcoreapp2.2\SP.ConsoleApp.csproj.CopyComplete

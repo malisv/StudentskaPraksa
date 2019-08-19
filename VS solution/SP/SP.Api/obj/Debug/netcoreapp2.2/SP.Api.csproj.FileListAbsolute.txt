@@ -1,0 +1,17 @@
+C:\Users\vladem\Source\Repos\SP\SP.Api\bin\Debug\netcoreapp2.2\SP.Api.deps.json
+C:\Users\vladem\Source\Repos\SP\SP.Api\bin\Debug\netcoreapp2.2\SP.Api.runtimeconfig.json
+C:\Users\vladem\Source\Repos\SP\SP.Api\bin\Debug\netcoreapp2.2\SP.Api.runtimeconfig.dev.json
+C:\Users\vladem\Source\Repos\SP\SP.Api\bin\Debug\netcoreapp2.2\SP.Api.dll
+C:\Users\vladem\Source\Repos\SP\SP.Api\bin\Debug\netcoreapp2.2\SP.Api.pdb
+C:\Users\vladem\Source\Repos\SP\SP.Api\obj\Debug\netcoreapp2.2\SP.Api.csprojAssemblyReference.cache
+C:\Users\vladem\Source\Repos\SP\SP.Api\obj\Debug\netcoreapp2.2\SP.Api.csproj.CoreCompileInputs.cache
+C:\Users\vladem\Source\Repos\SP\SP.Api\obj\Debug\netcoreapp2.2\SP.Api.RazorAssemblyInfo.cache
+C:\Users\vladem\Source\Repos\SP\SP.Api\obj\Debug\netcoreapp2.2\SP.Api.RazorAssemblyInfo.cs
+C:\Users\vladem\Source\Repos\SP\SP.Api\obj\Debug\netcoreapp2.2\SP.Api.AssemblyInfoInputs.cache
+C:\Users\vladem\Source\Repos\SP\SP.Api\obj\Debug\netcoreapp2.2\SP.Api.AssemblyInfo.cs
+C:\Users\vladem\Source\Repos\SP\SP.Api\obj\Debug\netcoreapp2.2\SP.Api.RazorTargetAssemblyInfo.cache
+C:\Users\vladem\Source\Repos\SP\SP.Api\obj\Debug\netcoreapp2.2\SP.Api.dll
+C:\Users\vladem\Source\Repos\SP\SP.Api\obj\Debug\netcoreapp2.2\SP.Api.pdb
+C:\Users\vladem\Source\Repos\SP\SP.Api\bin\Debug\netcoreapp2.2\SP.Data.dll
+C:\Users\vladem\Source\Repos\SP\SP.Api\bin\Debug\netcoreapp2.2\SP.Data.pdb
+C:\Users\vladem\Source\Repos\SP\SP.Api\obj\Debug\netcoreapp2.2\SP.Api.csproj.CopyComplete
